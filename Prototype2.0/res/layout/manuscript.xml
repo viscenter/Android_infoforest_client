@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+    
+<TableLayout
+    android:id="@+id/manuslay"
+    xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+    
+    <LinearLayout android:id="@+id/upper"></LinearLayout>
+       
+    <LinearLayout android:id="@+id/main">
+        
+        <TextView 
+            android:id="@+id/translation"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:textSize="16dip"
+            />        
+        <ImageView 
+            android:id="@+id/pages"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scaleType="fitXY"/>        
+    </LinearLayout>
+    
+    <LinearLayout android:id="@+id/lower">
+        
+        <Button android:id="@+id/home"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"/>
+        
+        <Button android:id="@+id/toc"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"/>
+        
+        <SeekBar android:id="@+id/seekbar"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"/>        
+        
+        <TextView android:id="@+id/pageNum"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"/>
+        
+        <Button android:id="@+id/info"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"/>
+                
+    </LinearLayout>
+                    
+</TableLayout>

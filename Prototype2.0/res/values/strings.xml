@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Prototype2!</string>
+    <string name="app_name">Prototype2</string>
+    <string name="about">About InfoForest\n\n\n\n\n\nThe Chad Gospels are an eighth century gospel book that currently resides at the Lichfield Cathedral in England. The book is 236 pages with 228 of them containing text and 8 illuminated. It was likely written by one scribe in the 700\'s and given to the church of St. Teilo before it came to the Lichfield Cathedral between 900 and 1020. The book was originally part of a two&#8211;volume set that contained the four gospels of the New Testament. However the second volume containing the rest of Luke and John was lost somewhere between the 1500 and 1600\’s. The Gospels\’ pages are velum, which is a material made from animal skin. It is estimated that the first volume of the book required 50&#8211;60 animals to be used to make enough pages for Matthew, Mark and Luke 1&#8211;3. The book was written in Latin in a version of St. Jerome\’s Vulgate. In the script, there are 2,000 variations from the original Vulgate, something that has been of interest to scholars. The Chad Gospels is significant not just because of its age. In its margins are notes written in Latin and also the earliest known Welsh. Page 141 of the manuscript contains some of the most interesting and informative marginal notes. Part of the draw of this book is the things that are yet to be uncovered about it. Where was it made, and by whom? Where is the missing second half? This manuscript has much still to be discovered about it and much more to be learned from it.</string>
+    <string name="credits">Credits\n\n\n\n\n\nDr. Brent Seales—Professor of Computer Science, University of Kentucky
+Dr. Christopher Blackwell—Professor of Classics, Furman University
+Julie Martinez—Technical Communication Specialist, Vis Center, University of Kentucky
+Greg Bandy—Assistant Professor of Media Communications, Asbury University
+Seth Parker—Video Editor, Vis Center, University of Kentucky
+Jon Fox—Engineer Associate, Vis Center, University of Kentucky
+Aaron Camenisch—Graphic Artist, Vis Center, University of Kentucky
+Becky Hogan—iOS, Vis Center, University of Kentucky
+Bonnie Lewis—Content, Vis Center, University of Kentucky
+Tucker Hannah—Latin XML for Matthew, Furman University
+Eric Santos—Android Devices, Vis Center, University of Kentucky
+John Broadbent—Server Development, Vis Center, University of Kentucky
+Krystel Navas—Web Application, Vis Center, University of Kentucky
+Zach Anderson—iOS, Vis Center, University of Kentucky
+Tony Brown, Furman University
+
+The Center for Hellenic Studies of Harvard University
+National Science Foundation
+University of Kentucky’s Center for Visualization and Virtual Environments
+</string>
+    <string name="folio">About FoLIO\n\n\n\n\n\nFoLIO is a project that “develops a framework for organizing images that allows the specific types of relationships between those images to be represented, manipulated, highlighted, enhanced, and studied.” FoLIO stands for “Framework for Longitudinal Image-based Organization.” The project focuses on imaging important manuscripts so that the images can later be manipulated to highlight details that may not have been seen otherwise. This is done through imaging each page in different light spectrums to create a multispectral image of the page. This can expose parts of the manuscripts that have been lost to aging. This imaging process was used on the images of the Chad Gospels used for the InfoForest App.
+</string>
+
+</resources>
